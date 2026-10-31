@@ -63,11 +63,11 @@ streamlit run app.py
 
 | Cleaning | Dashboard |
 |---|---|
-| ![cleaning](screenshots/cleaning.png) | ![dashboard](screenshots/dashboard.png) |
+| ![cleaning](screenshots/Cleaning.png) | ![dashboard](screenshots/Dashboard.png) |
 
 | Forecast | Chat with Data |
 |---|---|
-| ![forecast](screenshots/forecast.png) | ![chat](screenshots/chat.png) |
+| ![forecast](screenshots/Forecast.png) | ![chat](screenshots/Chat.png) |
 
 ## ⚠️ Notes and Limitations
 
